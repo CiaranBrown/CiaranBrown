@@ -1,7 +1,6 @@
 ## Hi there 👋
+### My name is Ciaran and I'm teaching myself to become a full-stack web developer 💻
 -----------------
-#### My name is Ciaran and I'm teaching myself to become a full-stack web developer 💻
-
 I'm diligent and motivated who always strives to continuously learn something new and to improve myself mentally and physically. Being a huge optimist, I always seek spreading positivity in everything amongst myself and others.
 
 - 🔭 I’m currently working on ...
