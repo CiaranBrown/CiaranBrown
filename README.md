@@ -12,6 +12,11 @@
 * 📚 Reading books that will help improve my mindset and hear about people's life stories.
 * ❤️ Spending time with my friends and family is hugely important to me as it sees me at my happiness and provides me with a sense of security, support, and love.
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
