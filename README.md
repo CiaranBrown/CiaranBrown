@@ -5,8 +5,8 @@
 
 ## About Me
 * 🇬🇧 I'm a 19 year old aspiring web developer that lives in a small village called Wimblington in Cambridgeshire.
-* 😁 I'm diligent and motivated who always strives to continuously learn something new and to improve myself mentally and physically. Being a huge optimist, I always seek spreading positivity in everything amongst myself and others.
-* 🏉 When I'm not coding, I enjoy playing rugby for my local team, reading books that will help improve my mindset and spending time with my friends and family which all see me at my happiness.
+* 😁 I'm diligent and motivated who always strives to continuously learn something new. Being a huge optimist, I always seek spreading positivity in everything amongst myself and others.
+* 🏉 When I'm not coding, I enjoy playing rugby for my local team, reading books that will help improve my mindset and spending time with my friends and family
 
 
 ## My Coding Journey
