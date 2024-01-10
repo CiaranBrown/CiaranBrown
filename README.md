@@ -1,5 +1,5 @@
-# Hi there 👋
-### My name is Ciaran and I'm teaching myself to become a full-stack web developer 💻
+# Hello 👋
+### My name is Ciaran and I'm teaching myself to become a full-stack web developer 👨🏼‍💻
 
 
 ## About Me
