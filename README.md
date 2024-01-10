@@ -1,5 +1,5 @@
-# Hello 👋 , I'm Ciaran!
-### 👨🏼‍💻 Web developer in the making
+# Hello, my name is Ciaran 👋🏻
+### I'm a web developer in the making 👨🏼‍💻
 
 
 
@@ -10,7 +10,7 @@
 
 
 ## My Coding Journey
-* I was introduced to the Frontend Codecademy course and a developer roadmap which I treated like a job until completion for over a year. This is where I learnt HTML, CSS, JavaScript and GitHub.
+* Frontend Codecademy course and a developer roadmap which I treated like a job until completion for over a year. This is where I learnt HTML, CSS, JavaScript and GitHub.
 * I'm currently training part of the Founders & Coders 30 cohort to help improve my web development skills. 
 
 
