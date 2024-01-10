@@ -1,5 +1,5 @@
-# Hello 👋 , my name is Ciaran!
-## Web developer in the making 👨🏼‍💻
+# Hello 👋 , I'm Ciaran!
+### Web developer in the making 👨🏼‍💻
 
 
 
