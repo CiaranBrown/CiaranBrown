@@ -1,10 +1,6 @@
-## Hello 👋
+## Hi there 👋
 
-<!--
-**CiaranBrown/CiaranBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+#### My name is Ciaran and I'm teaching myself to become a full-stack web developer 💻
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
