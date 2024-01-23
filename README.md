@@ -1,5 +1,6 @@
 # Hello, my name is Ciaran 👋🏻
 Web developer in the making 👨🏼‍💻
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 
@@ -12,6 +13,7 @@ Web developer in the making 👨🏼‍💻
 ## My Coding Journey
 * Frontend Codecademy course and a developer roadmap which I treated like a job until completion for over a year. This is where I learnt HTML, CSS, JavaScript and GitHub.
 * I'm currently training part of the Founders & Coders 30 cohort to help improve my web development skills. 
+
 
 
 <div id="badges" align="center">
