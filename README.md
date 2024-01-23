@@ -1,7 +1,7 @@
 # Hello, my name is Ciaran 👋🏻
 Web developer in the making 👨🏼‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 
 
 ## 🤝🏻 About Me : 
