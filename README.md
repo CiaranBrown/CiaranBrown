@@ -16,7 +16,7 @@ Web developer in the making 👨🏼‍💻
 
 
 --------------
-<p align="center">
+<p align="center" padding="1rem">
   <a href="https://www.linkedin.com/in/ciaran-brown-0b3b54175/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
