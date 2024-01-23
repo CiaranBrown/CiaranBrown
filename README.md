@@ -13,9 +13,9 @@ I'm a 19 year old aspiring full-stack web developer from Cambridgeshire.
 * I was introduced to the Frontend Codecademy course and a developer roadmap which I treated like a job until completion for over a year. This is where I developed a practical understanding of web development and programming learning HTML, CSS, JavaScript, Git and GitHub.
 * I'm currently training part of the <a href="https://www.foundersandcoders.com/">Founders & Coders</a> 30 cohort to help improve my web development skills.
 
+## Contact Me :
 📧 Reach out to me - <a href="mailto:ciaran.brown@hotmail.com">ciaran.brown@hotmail.com</a>
 
---------------
 <p align="center">
   <a href="https://www.linkedin.com/in/ciaran-brown-0b3b54175/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
