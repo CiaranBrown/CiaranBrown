@@ -15,9 +15,15 @@ Web developer in the making 👨🏼‍💻
 * I'm currently training part of the Founders & Coders 30 cohort to help improve my web development skills. 
 
 
-
+--------------
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/ciaran-brown-0b3b54175/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/ciaran.brown19/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="ciaranbrown">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
