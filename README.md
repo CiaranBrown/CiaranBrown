@@ -1,6 +1,6 @@
 # Hello, my name is Ciaran 👋🏻
 Web developer in the making 👨🏼‍💻
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 
 ## About Me
@@ -8,16 +8,13 @@ Web developer in the making 👨🏼‍💻
 * 😁 I'm diligent and motivated who always strives to continuously learn something new. Being a huge optimist, I always seek spreading positivity in everything amongst myself and others.
 * 🏉 When I'm not coding, I enjoy playing rugby for my local team, reading books that will help improve my mindset and spending time with my friends and family.
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
 
 ## My Coding Journey
 * Frontend Codecademy course and a developer roadmap which I treated like a job until completion for over a year. This is where I learnt HTML, CSS, JavaScript and GitHub.
 * I'm currently training part of the Founders & Coders 30 cohort to help improve my web development skills. 
 
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
