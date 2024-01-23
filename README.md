@@ -8,6 +8,9 @@ Web developer in the making 👨🏼‍💻
 * 😁 I'm diligent and motivated who always strives to continuously learn something new. Being a huge optimist, I always seek spreading positivity in everything amongst myself and others.
 * 🏉 When I'm not coding, I enjoy playing rugby for my local team, reading books that will help improve my mindset and spending time with my friends and family.
 
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
 
 ## My Coding Journey
 * Frontend Codecademy course and a developer roadmap which I treated like a job until completion for over a year. This is where I learnt HTML, CSS, JavaScript and GitHub.
