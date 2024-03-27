@@ -1,7 +1,7 @@
 # Hello, my name is Ciaran 👋🏻
 Web developer in the making 👨🏼‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,md,nodejs,express,aws,jest,git,github,vscode)](https://skillicons.dev)
 
 ## 🤝🏻 About Me : 
 I'm a 19 year old aspiring full-stack web developer from Cambridgeshire.
