@@ -13,7 +13,7 @@ I'm a 19 year old aspiring full-stack web developer from Cambridgeshire.
 * I was introduced to the Frontend Codecademy course and a developer roadmap which I treated like a job until completion for over a year. This is where I developed a practical understanding of web development and programming learning HTML, CSS, JavaScript, Git and GitHub.
 * I'm currently training part of the <a href="https://www.foundersandcoders.com/">Founders & Coders</a> 30 cohort to help improve my web development skills.
   Check out my application projects:
-  * 👨🏼‍💻 [Personal Website](https://github.com/CiaranBrown/Personal-Website) - in my website, you'll find information about myself and my current journey becoming a frontend web developer and speak about my ambition of fulfilling my dream of becoming a full-stack web developer.
+  * 💻 [Personal Website](https://github.com/CiaranBrown/Personal-Website) - in my website, you'll find information about myself and my current journey becoming a frontend web developer and speak about my ambition of fulfilling my dream of becoming a full-stack web developer.
   * 🕹 [XO Game](https://github.com/CiaranBrown/XO-game) - in this game, you are X and your friend is O. You both take turns putting your marks in the empty squares. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
  
   During the time of the course, we were put into support groups of four, to pair program three different projects, changing partner for every project:
