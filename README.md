@@ -10,11 +10,12 @@ I am a 19-year-old aspiring full-stack web developer from Cambridgeshire, dedica
 * 🏉 Beyond Coding: Outside of my coding pursuits, I enjoy playing rugby, reading books that enhance my mindset, and spending quality time with friends and family.
   
 ## 🧗🏻‍♂️ My Coding Journey
-* I was introduced to the Frontend Codecademy course and a developer roadmap which I treated like a job until completion for over a year. This is where I developed a practical understanding of web development and programming learning HTML, CSS, JavaScript, Git and GitHub.
-* I'm currently training part of the <a href="https://www.foundersandcoders.com/">Founders & Coders</a> 30 cohort to help improve my web development skills.
-  Check out my application projects:
-  * 💻 [Personal Website](https://github.com/CiaranBrown/Personal-Website) - in my website, you'll find information about myself and my current journey becoming a frontend web developer and speak about my ambition of fulfilling my dream of becoming a full-stack web developer.
-  * 🕹 [XO Game](https://github.com/CiaranBrown/XO-game) - in this game, you are X and your friend is O. You both take turns putting your marks in the empty squares. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
+* My journey into coding began with the Frontend Codecademy course and a comprehensive developer roadmap, which I diligently followed for over a year. This rigorous approach allowed me to gain a solid, practical understanding of web development and programming, covering HTML, CSS, JavaScript, Git, and GitHub.
+
+* I then applied for and completed an intensive 12-week Software Development course with <a href="https://www.foundersandcoders.com/">Founders & Coders</a>, a program dedicated to enhancing my web development capabilities.
+  My application projects:
+  * 💻 [Personal Website](https://github.com/CiaranBrown/Personal-Website) - on my personal website, you'll find detailed information about my journey towards becoming a frontend web developer, as well as my aspirations to become a full-stack developer.
+  * 🕹 [XO Game](https://github.com/CiaranBrown/XO-game) - this game is a simple yet engaging implementation of Tic-Tac-Toe. Players take turns placing their marks (X or O) in the empty squares, aiming to be the first to align three marks in a row, column, or diagonally to win the game.
  
   During the time of the course, we were put into support groups of four, to pair program three different projects, changing partner for every project:
   * 📚 [Many Mouths](https://github.com/fac30/Many-Mouths-Agency-Tajah-Ciaran) - a literary agency website with a user-friendly interface, focusing on accessibility. Developed using HTML5, CSS3, JavaScript.
